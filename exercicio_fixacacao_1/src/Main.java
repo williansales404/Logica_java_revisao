@@ -23,7 +23,7 @@ public class Main {
 		System.out.printf("%s,  whichprice is $ %.2f%n", product2, price2);
 		System.out.println();
 		System.out.println();
-		System.out.printf("%d  yearsold, code %d and gender: %s", age, code, gender);
+		System.out.printf("%d  year sold, code %d and gender: %c%n", age, code, gender);
 		System.out.println();
 		System.out.println("Measue withe ight decimal places:"+ measure);
 		System.out.printf(" Rouded (threedecimal places): %.3f%n", measure);
